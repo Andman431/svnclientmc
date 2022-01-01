@@ -1,1 +1,1 @@
-https://svenson441.github.io/SVN_Client/
+https://svenson441.github.io/SVNClientMC/
