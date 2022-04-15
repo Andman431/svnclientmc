@@ -6,13 +6,12 @@
 
 body {
 	background-color: rgb(30, 30, 30);
-	display: flex;
 	color: white;
+	margin: 0;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	flex-direction: column;
-	font-family: sans-serif;
+	font-family: Roboto;
 }
 
 a {
