@@ -3,12 +3,12 @@ body {
     color: white;
     font-size: 36px;
     text-align: center;
-    margin: 0;
-    margin-top: 75px;
+    margin: 0px;
+    margin-top: 50px;
     font-family: Arial;
 }
 
-logo, title {
+.logo, title {
     margin-left: auto;
     margin-right: auto;
     display: table;
@@ -20,4 +20,14 @@ button {
     border-radius: 5px;
     font-size: 40px;
     font-family: Arial;
+}
+
+.footer-content {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial;
+    margin: 0px;
+    margin-top: 55px;
+    color: black;
+    font-size: 26px;
 }
